@@ -91,3 +91,4 @@ ARCHIVES:
 🔗 https://github.com/VetoMin-AC/bit-console/releases
 
 ===========================================
+If you’d like, you can check it using Virus Total or any other virus detector. The app doesn’t contain any viruses or other harmful programs for your computer; it’s fully functional and makes routine tasks easier.
