@@ -1,5 +1,5 @@
 ===========================================
-   BIT CONSOLE v2.0 - User Guide
+   BIT CONSOLE v2.1 - User Guide
 ===========================================
 
 🚀 HOW TO INSTALL AND RUN
